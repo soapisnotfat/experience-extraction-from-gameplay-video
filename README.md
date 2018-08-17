@@ -10,7 +10,7 @@ Official code release for AIIDE 2018 oral presentation paper **[Player Experienc
 
 ## Getting Started
 
-This is the repo for the skyrim dataset experiment
+This is the repo for the gwario dataset experiment
 
 ### Prerequisites
 
