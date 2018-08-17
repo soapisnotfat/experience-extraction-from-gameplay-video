@@ -1,0 +1,351 @@
+Player RightMove: StTime = 20.6 EdTime = 20.64
+Player Firekill: EnemyType =  time = 22.44
+Player Firekill: EnemyType =  time = 22.48
+Player RightMove: StTime = 22.92 EdTime = 22.96
+Player Jump: StTime = 22.96 EdTime = 23.2
+Player RightMove: StTime = 23.24 EdTime = 23.28
+Player Firekill: EnemyType =  time = 24.72
+Player RightMove: StTime = 25.0 EdTime = 25.04
+Player Jump: StTime = 25.04 EdTime = 25.24
+Player Firekill: EnemyType =  time = 26.2
+Player RightMove: StTime = 26.84 EdTime = 26.88
+Player Firekill: EnemyType =  time = 27.12
+Player RightMove: StTime = 27.16 EdTime = 27.2
+Player LeftMove: StTime = 27.24 EdTime = 27.28
+Player RightMove: StTime = 28.72 EdTime = 28.76
+Player RightMove: StTime = 29.04 EdTime = 29.08
+Player RightMove: StTime = 32.68 EdTime = 32.72
+Player Jump: StTime = 32.72 EdTime = 32.76
+Player RightMove: StTime = 32.88 EdTime = 32.92
+Player RightMove: StTime = 33.48 EdTime = 33.52
+Player Firekill: EnemyType =  time = 33.6
+Player Firekill: EnemyType =  time = 33.72
+Player Firekill: EnemyType =  time = 33.84
+Player Firekill: EnemyType =  time = 33.84
+Player RightMove: StTime = 34.08 EdTime = 34.12
+Player Jump: StTime = 34.12 EdTime = 34.28
+Player RightMove: StTime = 34.72 EdTime = 34.76
+Player Jump: StTime = 34.76 EdTime = 35.08
+Player Firekill: EnemyType =  time = 35.44
+Player RightMove: StTime = 35.8 EdTime = 35.88
+Player Jump: StTime = 35.84 EdTime = 35.96
+Player RightMove: StTime = 36.0 EdTime = 36.04
+Player Firekill: EnemyType =  time = 36.08
+Player Firekill: EnemyType =  time = 36.12
+Player Jump: StTime = 36.04 EdTime = 36.2
+Player Firekill: EnemyType =  time = 36.32
+Player Firekill: EnemyType =  time = 36.48
+Player Firekill: EnemyType =  time = 36.48
+Player Firekill: EnemyType =  time = 36.56
+Player Firekill: EnemyType =  time = 36.56
+Player Firekill: EnemyType =  time = 36.64
+Player RightMove: StTime = 36.64 EdTime = 36.68
+Player Jump: StTime = 36.68 EdTime = 37.0
+Player RightMove: StTime = 37.32 EdTime = 37.36
+Player RightMove: StTime = 37.4 EdTime = 37.44
+Player Jump: StTime = 37.44 EdTime = 37.76
+Player Firekill: EnemyType =  time = 37.88
+Player Firekill: EnemyType =  time = 38.28
+Player Firekill: EnemyType =  time = 38.44
+Player RightMove: StTime = 38.68 EdTime = 38.72
+Player Firekill: EnemyType =  time = 38.8
+Player Firekill: EnemyType =  time = 38.8
+Player Firekill: EnemyType =  time = 38.92
+Player RightMove: StTime = 38.88 EdTime = 38.92
+Player Firekill: EnemyType =  time = 39.0
+Player Firekill: EnemyType =  time = 39.04
+Player Firekill: EnemyType =  time = 39.08
+Player RightMove: StTime = 39.08 EdTime = 39.12
+Player Firekill: EnemyType =  time = 39.16
+Player Firekill: EnemyType =  time = 39.16
+Player Jump: StTime = 39.16 EdTime = 39.2
+Player LeftMove: StTime = 39.24 EdTime = 39.28
+Player RightMove: StTime = 39.6 EdTime = 39.64
+Player Firekill: EnemyType =  time = 39.76
+Player Jump: StTime = 39.64 EdTime = 39.8
+Player Firekill: EnemyType =  time = 40.24
+Player RightMove: StTime = 40.2 EdTime = 40.24
+Player Firekill: EnemyType =  time = 40.56
+Player Jump: StTime = 40.24 EdTime = 40.6
+Player Firekill: EnemyType =  time = 40.76
+Player RightMove: StTime = 41.16 EdTime = 41.2
+Player Firekill: EnemyType =  time = 41.52
+Player Firekill: EnemyType =  time = 41.52
+Player Firekill: EnemyType =  time = 41.68
+Player Firekill: EnemyType =  time = 41.8
+Player Firekill: EnemyType =  time = 41.84
+Player Firekill: EnemyType =  time = 41.88
+Player Firekill: EnemyType =  time = 41.92
+Player Firekill: EnemyType =  time = 41.96
+Player RightMove: StTime = 41.96 EdTime = 42.0
+Player Jump: StTime = 42.0 EdTime = 42.16
+Player RightMove: StTime = 42.6 EdTime = 42.64
+Player Jump: StTime = 42.64 EdTime = 42.96
+Player RightMove: StTime = 43.8 EdTime = 43.84
+Player Firekill: EnemyType =  time = 46.16
+Player Firekill: EnemyType =  time = 46.52
+Player Firekill: EnemyType =  time = 46.52
+Player Firekill: EnemyType =  time = 46.72
+Player Firekill: EnemyType =  time = 46.84
+Player Firekill: EnemyType =  time = 46.84
+Player Firekill: EnemyType =  time = 46.88
+Player Firekill: EnemyType =  time = 46.92
+Player Firekill: EnemyType =  time = 47.04
+Player Firekill: EnemyType =  time = 47.52
+Player RightMove: StTime = 50.44 EdTime = 50.48
+Player RightMove: StTime = 50.76 EdTime = 50.8
+Player RightMove: StTime = 51.52 EdTime = 51.56
+Player Jump: StTime = 51.56 EdTime = 51.6
+Player RightMove: StTime = 51.8 EdTime = 51.84
+Player RightMove: StTime = 51.88 EdTime = 51.92
+Player LeftMove: StTime = 52.04 EdTime = 52.08
+Player LeftMove: StTime = 52.16 EdTime = 52.2
+Player RightMove: StTime = 52.24 EdTime = 52.28
+Player Jump: StTime = 52.24 EdTime = 52.32
+Player Jump: StTime = 52.72 EdTime = 52.76
+Player RightMove: StTime = 52.68 EdTime = 52.76
+Player RightMove: StTime = 52.96 EdTime = 53.0
+Player RightMove: StTime = 53.2 EdTime = 53.24
+Player Jump: StTime = 53.24 EdTime = 53.32
+Player RightMove: StTime = 54.12 EdTime = 54.16
+Player Jump: StTime = 54.16 EdTime = 54.2
+Player RightMove: StTime = 55.56 EdTime = 55.6
+Player Jump: StTime = 56.08 EdTime = 56.2
+Player RightMove: StTime = 56.04 EdTime = 56.2
+Player Firekill: EnemyType =  time = 59.8
+Player Firekill: EnemyType =  time = 59.8
+Player got gumdrop
+Player Firekill: EnemyType =  time = 61.48
+Player got gumdrop
+Player got gumdrop
+Player Firekill: EnemyType =  time = 62.16
+Player Firekill: EnemyType =  time = 62.88
+Player Firekill: EnemyType =  time = 62.96
+Player Firekill: EnemyType =  time = 63.92
+Player Firekill: EnemyType =  time = 63.92
+Player RightMove: StTime = 64.2 EdTime = 64.24
+Player RightMove: StTime = 64.56 EdTime = 64.6
+Player Firekill: EnemyType =  time = 64.64
+Player Firekill: EnemyType =  time = 64.76
+Player got gumdrop
+Player RightMove: StTime = 65.76 EdTime = 65.8
+Player Jump: StTime = 65.8 EdTime = 65.92
+Player LeftMove: StTime = 65.8 EdTime = 65.92
+Player RightMove: StTime = 66.08 EdTime = 66.12
+Player LeftMove: StTime = 66.12 EdTime = 66.2
+Player RightMove: StTime = 66.36 EdTime = 66.4
+Player RightMove: StTime = 66.6 EdTime = 66.64
+Player Firekill: EnemyType =  time = 67.04
+Player RightMove: StTime = 67.08 EdTime = 67.12
+Player RightMove: StTime = 67.16 EdTime = 67.2
+Player RightMove: StTime = 70.92 EdTime = 70.96
+Player RightMove: StTime = 71.04 EdTime = 71.08
+Player Jump: StTime = 71.08 EdTime = 71.12
+Player RightMove: StTime = 71.24 EdTime = 71.28
+Player Firekill: EnemyType =  time = 76.96
+Player RightMove: StTime = 83.28 EdTime = 83.32
+Player Jump: StTime = 83.32 EdTime = 83.36
+Player RightMove: StTime = 83.4 EdTime = 83.44
+Player Jump: StTime = 83.44 EdTime = 83.52
+Player RightMove: StTime = 83.88 EdTime = 83.92
+Player Firekill: EnemyType =  time = 84.88
+Player got powerup
+Player RightMove: StTime = 85.32 EdTime = 85.36
+Player Jump: StTime = 85.36 EdTime = 85.52
+Player RightMove: StTime = 85.8 EdTime = 85.84
+Player RightMove: StTime = 85.96 EdTime = 86.0
+Player Firekill: EnemyType =  time = 86.2
+Player Jump: StTime = 86.0 EdTime = 86.2
+Player LeftMove: StTime = 86.76 EdTime = 86.8
+Player Firekill: EnemyType =  time = 87.08
+Player RightMove: StTime = 87.12 EdTime = 87.16
+Player Jump: StTime = 87.16 EdTime = 87.24
+Player got gumdrop
+Player RightMove: StTime = 87.48 EdTime = 87.52
+Player RightMove: StTime = 87.72 EdTime = 87.76
+Player got gumdrop
+Player RightMove: StTime = 88.12 EdTime = 88.16
+Player Jump: StTime = 88.16 EdTime = 88.2
+Player RightMove: StTime = 88.28 EdTime = 88.32
+Player got gumdrop
+Player Jump: StTime = 88.32 EdTime = 88.48
+Player RightMove: StTime = 89.04 EdTime = 89.08
+Player Jump: StTime = 89.08 EdTime = 89.24
+Player Firekill: EnemyType =  time = 89.44
+Player RightMove: StTime = 89.64 EdTime = 89.68
+Player RightMove: StTime = 89.92 EdTime = 89.96
+Player RightMove: StTime = 90.12 EdTime = 90.16
+Player RightMove: StTime = 90.24 EdTime = 90.28
+Player Firekill: EnemyType =  time = 90.44
+Player RightMove: StTime = 90.56 EdTime = 90.6
+Player RightMove: StTime = 91.12 EdTime = 91.16
+Player Jump: StTime = 91.12 EdTime = 91.2
+Player RightMove: StTime = 91.52 EdTime = 91.56
+Player Jump: StTime = 91.76 EdTime = 91.8
+Player RightMove: StTime = 92.04 EdTime = 92.08
+Player LeftMove: StTime = 92.08 EdTime = 92.12
+Player Jump: StTime = 92.12 EdTime = 92.16
+Player got gumdrop
+Player Firekill: EnemyType =  time = 92.48
+Player got gumdrop
+Player got gumdrop
+Player RightMove: StTime = 93.0 EdTime = 93.04
+Player got gumdrop
+Player RightMove: StTime = 93.24 EdTime = 93.28
+Player Jump: StTime = 93.28 EdTime = 93.32
+Player got gumdrop
+Player RightMove: StTime = 93.36 EdTime = 93.4
+Player got gumdrop
+Player Jump: StTime = 93.36 EdTime = 93.52
+Player got gumdrop
+Player RightMove: StTime = 94.08 EdTime = 94.12
+Player Jump: StTime = 94.12 EdTime = 94.28
+Player RightMove: StTime = 94.84 EdTime = 94.88
+Player RightMove: StTime = 95.16 EdTime = 95.2
+Player Jump: StTime = 95.24 EdTime = 95.28
+Player RightMove: StTime = 95.24 EdTime = 95.28
+Player RightMove: StTime = 95.36 EdTime = 95.4
+Player RightMove: StTime = 95.52 EdTime = 95.56
+Player Firekill: EnemyType =  time = 95.72
+Player Jump: StTime = 95.56 EdTime = 95.76
+Player RightMove: StTime = 96.28 EdTime = 96.32
+Player Jump: StTime = 96.32 EdTime = 96.36
+Player got powerup
+Player RightMove: StTime = 96.44 EdTime = 96.48
+Player Firekill: EnemyType =  time = 96.6
+Player Jump: StTime = 96.48 EdTime = 96.64
+Player RightMove: StTime = 96.84 EdTime = 96.88
+Player Firekill: EnemyType =  time = 96.96
+Player Firekill: EnemyType =  time = 97.64
+Player RightMove: StTime = 98.28 EdTime = 98.32
+Player Jump: StTime = 98.32 EdTime = 98.48
+Player RightMove: StTime = 98.76 EdTime = 98.8
+Player RightMove: StTime = 98.92 EdTime = 98.96
+Player Jump: StTime = 98.96 EdTime = 99.28
+Player RightMove: StTime = 100.08 EdTime = 100.12
+Player got gumdrop
+Player Jump: StTime = 100.36 EdTime = 100.4
+Player Firekill: EnemyType =  time = 102.08
+Player Firekill: EnemyType =  time = 102.52
+Player RightMove: StTime = 103.76 EdTime = 103.8
+Player Jump: StTime = 103.84 EdTime = 103.88
+Player RightMove: StTime = 104.04 EdTime = 104.08
+Player Firekill: EnemyType =  time = 105.08
+Player got gumdrop
+Player got gumdrop
+Player got gumdrop
+Player RightMove: StTime = 106.32 EdTime = 106.36
+Player got gumdrop
+Player RightMove: StTime = 107.0 EdTime = 107.04
+Player Firekill: EnemyType =  time = 107.68
+Player RightMove: StTime = 107.64 EdTime = 107.68
+Player Jump: StTime = 107.68 EdTime = 107.8
+Player RightMove: StTime = 107.84 EdTime = 107.88
+Player RightMove: StTime = 107.92 EdTime = 107.96
+Player RightMove: StTime = 108.0 EdTime = 108.04
+Player RightMove: StTime = 108.08 EdTime = 108.12
+Player RightMove: StTime = 108.16 EdTime = 108.2
+Player RightMove: StTime = 109.64 EdTime = 109.68
+Player Jump: StTime = 109.68 EdTime = 109.72
+Player RightMove: StTime = 109.8 EdTime = 109.84
+Player RightMove: StTime = 110.16 EdTime = 110.2
+Player Jump: StTime = 110.2 EdTime = 110.24
+Player RightMove: StTime = 110.76 EdTime = 110.8
+Player Jump: StTime = 110.8 EdTime = 110.84
+Player Firekill: EnemyType =  time = 111.28
+Player Firekill: EnemyType =  time = 112.04
+Player Firekill: EnemyType =  time = 112.08
+Player RightMove: StTime = 112.2 EdTime = 112.32
+Player Jump: StTime = 112.44 EdTime = 112.56
+Player RightMove: StTime = 112.4 EdTime = 112.56
+Player Firekill: EnemyType =  time = 112.84
+Player Firekill: EnemyType =  time = 118.68
+Player RightMove: StTime = 119.24 EdTime = 119.28
+Player LeftMove: StTime = 119.28 EdTime = 119.32
+Player Jump: StTime = 119.32 EdTime = 119.36
+Player RightMove: StTime = 119.32 EdTime = 119.36
+Player Firekill: EnemyType =  time = 119.52
+Player RightMove: StTime = 119.56 EdTime = 119.6
+Player RightMove: StTime = 119.64 EdTime = 119.68
+Player RightMove: StTime = 119.72 EdTime = 119.76
+Player Jump: StTime = 119.76 EdTime = 120.04
+Player LeftMove: StTime = 119.76 EdTime = 120.04
+Player RightMove: StTime = 120.12 EdTime = 120.16
+Player LeftMove: StTime = 120.16 EdTime = 120.44
+Player RightMove: StTime = 120.72 EdTime = 120.76
+Player RightMove: StTime = 120.84 EdTime = 120.88
+Player Jump: StTime = 120.88 EdTime = 120.96
+Player LeftMove: StTime = 120.88 EdTime = 120.96
+Player RightMove: StTime = 121.32 EdTime = 121.36
+Player RightMove: StTime = 121.4 EdTime = 121.44
+Player LeftMove: StTime = 121.44 EdTime = 121.56
+Player RightMove: StTime = 121.68 EdTime = 121.72
+Player Jump: StTime = 121.72 EdTime = 121.92
+Player LeftMove: StTime = 121.72 EdTime = 121.92
+Player Firekill: EnemyType =  time = 121.96
+Player Firekill: EnemyType =  time = 122.6
+Player Firekill: EnemyType =  time = 122.64
+Player Firekill: EnemyType =  time = 125.68
+Player RightMove: StTime = 126.2 EdTime = 126.24
+Player Jump: StTime = 126.28 EdTime = 126.32
+Player RightMove: StTime = 126.28 EdTime = 126.32
+Player Firekill: EnemyType =  time = 126.64
+Player RightMove: StTime = 126.8 EdTime = 126.84
+Player RightMove: StTime = 126.88 EdTime = 126.96
+Player Jump: StTime = 127.28 EdTime = 127.32
+Player RightMove: StTime = 127.28 EdTime = 127.32
+Player RightMove: StTime = 127.76 EdTime = 127.8
+Player Firekill: EnemyType =  time = 128.0
+Player Jump: StTime = 127.8 EdTime = 128.12
+Player got gumdrop
+Player got gumdrop
+Player Jump: StTime = 128.56 EdTime = 128.6
+Player RightMove: StTime = 128.52 EdTime = 128.6
+Player got gumdrop
+Player Jump: StTime = 128.64 EdTime = 128.72
+Player got gumdrop
+Player Jump: StTime = 128.8 EdTime = 129.12
+Player RightMove: StTime = 128.76 EdTime = 129.24
+Player got gumdrop
+Player RightMove: StTime = 129.52 EdTime = 129.56
+Player Firekill: EnemyType =  time = 129.6
+Player Firekill: EnemyType =  time = 129.84
+Player RightMove: StTime = 129.96 EdTime = 130.0
+Player Jump: StTime = 130.08 EdTime = 130.12
+Player LeftMove: StTime = 130.2 EdTime = 130.24
+Player RightMove: StTime = 130.36 EdTime = 130.4
+Player Firekill: EnemyType =  time = 130.76
+Player Jump: StTime = 130.4 EdTime = 130.76
+Player Firekill: EnemyType =  time = 130.84
+Player RightMove: StTime = 131.24 EdTime = 131.28
+Player Firekill: EnemyType =  time = 131.32
+Player Jump: StTime = 131.32 EdTime = 131.36
+Player RightMove: StTime = 131.32 EdTime = 131.36
+Player RightMove: StTime = 131.4 EdTime = 131.44
+Player Jump: StTime = 131.44 EdTime = 131.76
+Player Firekill: EnemyType =  time = 132.88
+Player Firekill: EnemyType =  time = 133.12
+Player Firekill: EnemyType =  time = 133.28
+Player Firekill: EnemyType =  time = 135.48
+Player got gumdrop
+Player got gumdrop
+Player RightMove: StTime = 140.64 EdTime = 140.68
+Player Jump: StTime = 140.68 EdTime = 140.72
+Player got gumdrop
+Player got gumdrop
+Player RightMove: StTime = 143.4 EdTime = 143.44
+Player RightMove: StTime = 144.52 EdTime = 144.56
+Player RightMove: StTime = 144.6 EdTime = 144.64
+Player RightMove: StTime = 144.84 EdTime = 144.88
+Player RightMove: StTime = 144.92 EdTime = 144.96
+Player RightMove: StTime = 145.56 EdTime = 145.6
+Player RightMove: StTime = 145.64 EdTime = 145.68
+Player Firekill: EnemyType =  time = 145.96
+Player RightMove: StTime = 150.32 EdTime = 150.36
+Player Jump: StTime = 150.36 EdTime = 150.56
+Player RightMove: StTime = 152.04 EdTime = 152.08
+Player RightMove: StTime = 159.16 EdTime = 159.2
+Player got gumdrop
+Player got gumdrop
+Player RightMove: StTime = 165.04 EdTime = 165.08
+Player RightMove: StTime = 165.96 EdTime = 166.0

@@ -26,21 +26,7 @@ This is the repo for the skyrim dataset experiment
 git clone https://github.com/IvoryCandy/experience-extraction-from-gameplay-video.git
 ```
 
-### Usage
-
-download data
-
-```sh
-cd data
-bash download.sh
-```
-
-download pretrained model
-
-```sh
-cd models
-bash download.sh
-```
+### Usage`
 
 run
 

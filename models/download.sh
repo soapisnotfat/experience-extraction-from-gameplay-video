@@ -1,1 +1,0 @@
-wget https://storage.googleapis.com/model_collection/skyrim-transfer-learning/model.tar
