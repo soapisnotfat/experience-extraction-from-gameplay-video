@@ -10,7 +10,9 @@ Official code release for AIIDE 2018 oral presentation paper **[Player Experienc
 
 ## Getting Started
 
-This is the repo for the gwario dataset experiment
+This is the repo for the `gwario` dataset experiment
+
+for Skyrim dataset experiment, please checkout `master` branch
 
 ### Prerequisites
 
@@ -26,7 +28,21 @@ This is the repo for the gwario dataset experiment
 git clone https://github.com/IvoryCandy/experience-extraction-from-gameplay-video.git
 ```
 
-### Usage`
+### Structure
+
+```
+- data
+  - log_file
+  - frames (release soon)
+- main.py
+- dataset.py
+- misc.py
+- model.py
+```
+
+All hyper-parameters are global varaibles in `main.py`.
+
+### Usage
 
 run
 
@@ -41,3 +57,4 @@ Distributed under the Apache2 license. See ``LICENSE`` for more information.
 ## Contributing
 
 - [Fork it](https://github.com/IvoryCandy/experience-extraction-from-gameplay-video/fork)
+a
