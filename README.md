@@ -68,7 +68,7 @@ run under default config
 python3 main.py
 ```
 
-For customized experiments, select different solvers from `solver.py` and put it in `main.py`, and set your own hyoer-parameters in arguments.
+For customized experiments, select different solvers from `solver.py` and put it in `main.py`, and set your own hyper-parameters in arguments.
 
 ## License
 
