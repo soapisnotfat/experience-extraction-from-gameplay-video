@@ -24,9 +24,20 @@ for Skyrim dataset experiment, please checkout `master` branch
 
 ### Installation
 
+download the repo:
+
 ```sh
 git clone https://github.com/IvoryCandy/experience-extraction-from-gameplay-video.git
 ```
+
+download the pretrained model:
+
+```sh
+bash download_pretrained_model.sh
+```
+
+download the dataset:
+> go to https://drive.google.com/uc?id=12P_dQZw7hCotVmz5BQ2pD6633Nj3przQ&export=download to download the zip file. Create the directotry `./data/frames` and unzip the zip into it. 
 
 ### Structure
 
@@ -57,4 +68,3 @@ Distributed under the Apache2 license. See ``LICENSE`` for more information.
 ## Contributing
 
 - [Fork it](https://github.com/IvoryCandy/experience-extraction-from-gameplay-video/fork)
-a

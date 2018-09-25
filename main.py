@@ -24,7 +24,7 @@ self_device = torch.device('cuda' if GPU_IN_USE else 'cpu')
 # ===========================================================
 # arguments setting up
 # ===========================================================
-parser = argparse.ArgumentParser(description='PyTorch practice CNN')
+parser = argparse.ArgumentParser(description='Gwario experiment')
 parser.add_argument('--epochs', type=int, default=EPOCHS)
 parser.add_argument('--lr', type=int, default=0.01)  # learning rate
 parser.add_argument('--bs', type=int, default=BATCH_SIZE)
